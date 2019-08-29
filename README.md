@@ -2,13 +2,16 @@
 
 lazyimg is a javascript livrary to faster image load
 
-    // HTML FILE IMAGE SAMPLE START
+    //=> HTML FILE IMAGE SAMPLE START
 
     <img class="lazy" data-src="http://localhost/test/bigfile.jpg" src="load.gif" alt="">
     <img class="lazy" data-src="http://localhost/test/bigfile.jpg" src="load.gif" alt="">
     <img class="lazy" data-src="http://localhost/test/bigfile.jpg" src="load.gif" alt="">
 
-    // HTML FILE IMAGE SAMPLE END
+    //=> HTML FILE IMAGE SAMPLE END
+
+    //=> Add Jquery FIle first
+
 
     <script>
 
